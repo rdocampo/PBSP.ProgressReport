@@ -8,6 +8,7 @@ namespace PBSP.ProgressReport.Controllers
 {
     public class HomeController : Controller
     {
+        //Index For Default Page
         public ActionResult Index()
         {
             return View();
